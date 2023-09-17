@@ -8,7 +8,17 @@ Self taught developer
 
 ## Tools/Languages
 ### Rust
-Out of all the languages I work in I am most proficient in Rust. I have read all the way through the **Rust Book** and I'm working through the **Zero to Production** book to learn backend development. The majority of my learning comes from building. After finishing a very basic password manager in Rust, I moved onto creating a LLM assistant application. **Consoxide** is still in development, but is close to being live as a dockerized assistant application with a native GUI.
+Out of all the languages I work in, Rust is by far my favorite. The majority of my learning comes from building, though I have read all the way through the **Rust Book** and I'm working through the **Zero to Production** book to learn backend development. Thus far I have been involved with three projects using Rust. 
+ - A very simple CLI for storing and retrieving passwords
+ - **Showbeam**, a markdown slideshow website which has a Rust backend
+ - **Consoxide**, my personal Ai Assistant application
+## Javascript/Typescript
+
+
+
+an LLM assistant application. **Consoxide** is still in development, but is close to being live as a dockerized assistant application with a native GUI.
+
+### 
 
 
 <!--
