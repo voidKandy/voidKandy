@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, my name is Ezra Klitsie
+Self taught developer 
 
 <!--
 **voidKandy/voidKandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
