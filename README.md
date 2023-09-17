@@ -13,12 +13,10 @@ Out of all the languages I work in, Rust is by far my favorite. The majority of 
  - **Showbeam**, a markdown slideshow website which has a Rust backend
  - **Consoxide**, my personal Ai Assistant application
 ## Javascript/Typescript
+Similarly to Rust, most of my experience and understanding of Javascript/Typescript has come from building in the languages. I started writing Typescript as an front-end intern for a startup I worked for from Fed 2023 - June 2023. Since then I have also built a password manager written in pure Javascript, and written my portfolio website as well as **Showbeam's** front end in Typescript.
+## Python
+My introduction to programming was Python, 
 
-
-
-an LLM assistant application. **Consoxide** is still in development, but is close to being live as a dockerized assistant application with a native GUI.
-
-### 
 
 
 <!--
