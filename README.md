@@ -6,8 +6,8 @@ Self taught developer
 - 🌱 I’m currently learning Rust backend development through the [Zero to Production](https://github.com/LukeMathWalker/zero-to-production) book 
  
 
-### Tools/Languages
-#### Rust
+## Tools/Languages
+### Rust
 Out of all the languages I work in I am most proficient in Rust. I have read all the way through the **Rust Book** and I'm working through the **Zero to Production** book to learn backend development. The majority of my learning comes from building. After finishing a very basic password manager in Rust, I moved onto creating a LLM assistant application. **Consoxide** is still in development, but is close to being live as a dockerized assistant application with a native GUI.
 
 
