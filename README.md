@@ -12,11 +12,10 @@ Out of all the languages I work in, Rust is by far my favorite. The majority of 
  - A very simple CLI for storing and retrieving passwords
  - **Showbeam**, a markdown slideshow website which has a Rust backend
  - **Consoxide**, my personal Ai Assistant application
-## Javascript/Typescript
+### Javascript/Typescript
 Similarly to Rust, most of my experience and understanding of Javascript/Typescript has come from building in the languages. I started writing Typescript as an front-end intern for a startup I worked for from Fed 2023 - June 2023. Since then I have also built a password manager written in pure Javascript, and written my portfolio website as well as **Showbeam's** front end in Typescript.
-## Python
-My introduction to programming was Python, 
-
+### Python
+My very first program was a Python program that used the Dall-E API to turn wav files into images. On top of that, I have also fine tuned Davinci-003 using data gathered from web scrapers I wrote using the Beautiful Soup library. My time in the Fast.ai program gave me extensive experience trainging models using both fast.ai's library as well as Pytorch. 
 
 
 <!--
