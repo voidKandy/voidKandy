@@ -1,5 +1,5 @@
 ## Hi 👋, my name is Ezra Klitsie
-* * * 
+_ _ _
 
 Self taught developer 
 
