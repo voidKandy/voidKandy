@@ -2,7 +2,7 @@
 
 I am a self taught developer working mostly in Rust and Typescript. I have a passionate interest in Ai and Machine learning models 
 
-- 🔭 I’m currently working on [Consoxide](https://github.com/voidKandy/Consoxide), an advanced chat interface for language models powered by Rust
+- 🔭 I’m currently working on [espionox](https://github.com/voidKandy/espionox), an advanced chat interface for language models powered by Rust
 - 🌱 I’m currently learning Rust backend development through the [Zero to Production](https://github.com/LukeMathWalker/zero-to-production) book 
  
 
