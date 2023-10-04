@@ -11,7 +11,7 @@ I am a self taught developer working mostly in Rust and Typescript. I have a pas
 Out of all the languages I work in, Rust is by far my favorite. The majority of my learning comes from building, though I have read all the way through the **Rust Book** and I'm working through the **Zero to Production** book to learn backend development. Thus far I have been involved with three projects using Rust. 
  - A very simple CLI for storing and retrieving passwords
  - **Showbeam**, a markdown slideshow website which has a Rust backend
- - **Consoxide**, my personal Ai Assistant application
+ - **espionox**, my ai agent rust library
 ### Javascript/Typescript
 Similarly to Rust, most of my experience and understanding of Javascript/Typescript has come from building in the languages. I started writing Typescript as an front-end intern for a startup I worked for from Fed 2023 - June 2023. Since then I have also built a password manager written in pure Javascript, and written my portfolio website as well as **Showbeam's** front end in Typescript.
 ### Python
