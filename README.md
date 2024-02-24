@@ -1,21 +1,13 @@
 ## Hi 👋, my name is Ezra Klitsie
 
-I am a self taught developer working mostly in Rust and Typescript. I have a passionate interest in Ai and Machine learning models 
+### I spent 5 years as a full-time musician before realizing that software and machine learning were better suited for my psychological makeup. 
 
-- 🔭 I’m currently working on [espionox](https://github.com/voidKandy/espionox), an advanced chat interface for language models powered by Rust
-- 🌱 I’m currently learning Rust backend development through the [Zero to Production](https://github.com/LukeMathWalker/zero-to-production) book 
- 
+What started as a love for guitar and music composition became a passion for production and sound design. Ableton was an excellent gateway drug into software. It was hard to tell if I was more interested in the music or in pushing the DAW as far as I could. After completing a multimedia music project and spending months grinding self-promotion on social media, I was dissatisfied. Years of releases had not resulted in the music career I naively thought it would; something had to change. The release of ChatGPT led to the discovery of Python. Because of the chatbot, programming became much more accessible to me. Pair programming stupid little .py scripts with GPT-3.5 eventually led to a fascination with machine learning. That fascination led to a genuine attempt to create my own models until the unfortunate reality of my lack of software knowledge got in the way. Since then, I've been obsessed with expanding my knowledge of software. 
 
-## Tools/Languages
-### Rust
-Out of all the languages I work in, Rust is by far my favorite. The majority of my learning comes from building, though I have read all the way through the **Rust Book** and I'm working through the **Zero to Production** book to learn backend development. Thus far I have been involved with three projects using Rust. 
- - A very simple CLI for storing and retrieving passwords
- - **Showbeam**, a markdown slideshow website which has a Rust backend
- - **espionox**, my ai agent rust library
-### Javascript/Typescript
-Similarly to Rust, most of my experience and understanding of Javascript/Typescript has come from building in the languages. I started writing Typescript as an front-end intern for a startup I worked for from Fed 2023 - June 2023. Since then I have also built a password manager written in pure Javascript, and written my portfolio website as well as **Showbeam's** front end in Typescript.
-### Python
-My very first program was a Python program that used the Dall-E API to turn wav files into images. On top of that, I have also fine tuned Davinci-003 using data gathered from web scrapers I wrote using the Beautiful Soup library. My time in the Fast.ai program gave me extensive experience trainging models using both fast.ai's library as well as Pytorch. 
+Check my repos for some personal projects I've had a fun time working on such as:
+* Espionox, my own LLM library written in Rust
+* An experimental AI LSP project
+* Bureau, A chatGPT clone with more features
 
 
 <!--
