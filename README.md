@@ -1,7 +1,7 @@
 # Ezra Klitsie
 aka. voidkandy
 
-I'm a self taught dev, I make websites and other stuff
+Self taught dev, I make websites and other stuff
 <!--
 **voidKandy/voidKandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
