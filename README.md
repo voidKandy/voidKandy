@@ -1,7 +1,7 @@
 # Ezra Klitsie
 aka. voidkandy
 
-Self taught dev, I make websites and other stuff
+Self-Taught Software Developer trying to become a Software Engineer
 
 
 <!--
