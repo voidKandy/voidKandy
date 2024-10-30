@@ -1,7 +1,8 @@
 # Ezra Klitsie
 aka. voidkandy
 
-Self-Taught Software Developer trying to become a Software Engineer
+Self-Taught Software Developer. 
+I work primarily in `Rust` and `Go`. I try to learn every day and build cool stuff.
 
 
 <!--
