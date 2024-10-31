@@ -2,7 +2,7 @@
 aka. voidkandy
 
 Self-Taught Software Developer. 
-I work primarily in `Rust` and `Go`. I try to learn every day and build cool stuff.
+I'm a self taught developer working primarily in `Go` and `Rust`. I build websites as a freelancer, AI powered tools, and I've recently been researching and getting excited about Blockchain
 
 
 <!--
