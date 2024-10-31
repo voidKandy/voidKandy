@@ -1,8 +1,10 @@
 # Ezra Klitsie
-aka. voidkandy
+aka. [voidkandy](https://www.voidkandy.space)
 
 Self-Taught Software Developer. 
 I'm a self taught developer working primarily in `Go` and `Rust`. I build websites as a freelancer, AI powered tools, and I've recently been researching and getting excited about Blockchain
+
+
 
 
 <!--
