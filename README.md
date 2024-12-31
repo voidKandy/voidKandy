@@ -2,9 +2,7 @@
 aka. [voidkandy](https://www.voidkandy.space)
 
 
-I'm a self taught developer working primarily in `Go` and `Rust`. I build websites as a freelancer and I've build my own AI powered tools. Recently I've been researching P2P networking and I'm trying to write my own blockchain.
-
-
+I'm a self taught developer working primarily in `Go` and `Rust`. I build websites as a freelancer and I've build my own AI powered tools. Recently I've been researching P2P networking and I'm trying to write my own blockchain. I *genuinely* love building software, the more I learn the more I want to build.
 
 
 <!--
